@@ -1,1 +1,0 @@
-# max-of-array-
